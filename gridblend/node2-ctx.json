@@ -1,0 +1,79 @@
+{
+	"pattrstorage" : 	{
+		"name" : "node2-ctx",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"qmetro-active" : [ 0 ],
+					"videoplane-color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"mgr::mgr-mod" : [ 1 ],
+					"videoplane[1]-color" : [  ],
+					"videoplane[1]-scale" : [  ],
+					"videoplane[1]-scale[1]" : [  ],
+					"videoplane[1]-scale[2]" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"qmetro-active" : [ 1 ],
+					"videoplane-color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"mgr::mgr-mod" : [ 1 ],
+					"videoplane[1]-color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"videoplane[1]-scale" : [ 1.0, 1.0, 1.0 ],
+					"videoplane[1]-scale[1]" : [ 0.0, 0.0, 0.0 ],
+					"videoplane[1]-scale[2]" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"qmetro-active" : [ 1 ],
+					"videoplane-color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"mgr::mgr-mod" : [ 1 ],
+					"videoplane[1]-color" : [ 0.0, 0.0, 0.0, 1.0 ],
+					"videoplane[1]-scale" : [ 1.0, 1.0, 1.0 ],
+					"videoplane[1]-scale[1]" : [ 0.0, 0.0, 0.0 ],
+					"videoplane[1]-scale[2]" : [ 1 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"qmetro-active" : [ 1 ],
+					"videoplane-color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"mgr::mgr-mod" : [ 1 ],
+					"videoplane[1]-color" : [ 0.502008, 0.502008, 0.502008, 1.0 ],
+					"videoplane[1]-scale" : [ 1.0, 1.0, 1.0 ],
+					"videoplane[1]-scale[1]" : [ 0.0, 0.0, 0.0 ],
+					"videoplane[1]-scale[2]" : [ 1 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"qmetro-active" : [ 1 ],
+					"videoplane-color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"mgr::mgr-mod" : [ 1 ],
+					"videoplane[1]-color" : [ 0.732486, 0.743513, 0.751302, 1.0 ],
+					"videoplane[1]-scale" : [ 1.06, 1.09, 1.0 ],
+					"videoplane[1]-scale[1]" : [ 0.0, 0.0, 0.0 ],
+					"videoplane[1]-scale[2]" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

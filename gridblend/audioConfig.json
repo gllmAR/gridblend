@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "audioconfig",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"inputGain" : [ -30.0 ],
+					"threshold" : [ -30.359055 ],
+					"time-min-duration" : [ 24.0 ],
+					"time-min-off" : [ 24.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

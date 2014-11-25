@@ -1,0 +1,19 @@
+{
+	"pattrstorage" : 	{
+		"name" : "syphon-conf",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"syphonclient-servername" : [ "CamTwist" ],
+					"syphonclient-appname" : [ "CamTwist" ],
+					"dim" : [ 1280, 720 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
