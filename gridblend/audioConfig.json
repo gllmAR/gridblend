@@ -8,7 +8,8 @@
 					"inputGain" : [ -30.0 ],
 					"threshold" : [ -30.359055 ],
 					"time-min-duration" : [ 24.0 ],
-					"time-min-off" : [ 24.0 ]
+					"time-min-off" : [ 24.0 ],
+					"fftVolume" : [ -40.196239 ]
 				}
 
 			}
