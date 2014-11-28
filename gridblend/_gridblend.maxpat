@@ -1978,7 +1978,7 @@
 									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 638.833191, 208.0, 59.5, 22.0 ],
 									"restore" : 									{
-										"fftVolume" : [ -40.196239 ],
+										"fftVolume" : [ -42.790005 ],
 										"inputGain" : [ -30.0 ],
 										"threshold" : [ -30.359055 ],
 										"time-min-duration" : [ 24.0 ],
@@ -1987,7 +1987,7 @@
 ,
 									"style" : "",
 									"text" : "autopattr",
-									"varname" : "u260001755"
+									"varname" : "u667001755"
 								}
 
 							}
@@ -3190,7 +3190,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 210.0, 315.0, 50.0, 31.0 ],
 													"style" : "",
-													"text" : "-102.403801"
+													"text" : "-103.941574"
 												}
 
 											}
@@ -3221,7 +3221,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 165.0, 600.0, 50.0, 31.0 ],
 													"style" : "",
-													"text" : "-20.827177"
+													"text" : "-48.223362"
 												}
 
 											}
@@ -3252,7 +3252,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 195.0, 990.0, 50.0, 31.0 ],
 													"style" : "",
-													"text" : "0.090916"
+													"text" : "0.16639"
 												}
 
 											}
@@ -5505,7 +5505,7 @@
 									"numoutlets" : 3,
 									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 235.0, 330.0, 260.0, 20.0 ],
-									"restore" : [ 1.0 ],
+									"restore" : [ 0.865354 ],
 									"saved_object_attributes" : 									{
 										"parameter_enable" : 0
 									}
@@ -5598,7 +5598,7 @@
 									"numoutlets" : 3,
 									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 226.0, 215.0, 278.0, 20.0 ],
-									"restore" : [ 1.0 ],
+									"restore" : [ 0.792913 ],
 									"saved_object_attributes" : 									{
 										"parameter_enable" : 0
 									}
@@ -5619,7 +5619,7 @@
 									"numoutlets" : 3,
 									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 226.0, 175.0, 278.0, 20.0 ],
-									"restore" : [ 0.114173 ],
+									"restore" : [ 0.0 ],
 									"saved_object_attributes" : 									{
 										"parameter_enable" : 0
 									}
@@ -6841,7 +6841,7 @@
 									"numoutlets" : 3,
 									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 370.5, 379.333313, 205.0, 22.0 ],
-									"restore" : [ 0.61048, 0.4244, 0.146663, 1.0 ],
+									"restore" : [ 0.484058, 0.336512, 0.116291, 1.0 ],
 									"saved_object_attributes" : 									{
 										"parameter_enable" : 0
 									}
@@ -14926,7 +14926,7 @@
 ,
 													"style" : "",
 													"text" : "autopattr",
-													"varname" : "u627001590"
+													"varname" : "u206001594"
 												}
 
 											}
@@ -22040,7 +22040,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 14.25, 516.5, 303.0, 22.0 ],
+					"patching_rect" : [ 10.25, 531.5, 303.0, 22.0 ],
 					"style" : "",
 					"text" : "jit.gl.videoplane main-ctx @transform_reset 2 @layer 0"
 				}
@@ -22055,7 +22055,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_gl_texture", "" ],
-					"patching_rect" : [ 14.25, 490.5, 218.0, 22.0 ],
+					"patching_rect" : [ 36.75, 490.5, 218.0, 22.0 ],
 					"style" : "",
 					"text" : "jit.gl.texture main-ctx @name feedback"
 				}
@@ -23025,6 +23025,15 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-61", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-24", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-82", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -23401,26 +23410,26 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-44" : [ "node[3]", "node[3]", 0 ],
-			"obj-27::obj-11" : [ "time-min-off", "time-min-off", 0 ],
-			"obj-64" : [ "knob[6]", "knob[1]", 0 ],
+			"obj-60" : [ "knob[4]", "knob[1]", 0 ],
 			"obj-45" : [ "node[4]", "node[4]", 0 ],
-			"obj-27::obj-12" : [ "fftVolume", "fftVolume", 0 ],
-			"obj-73" : [ "knob[7]", "knob[1]", 0 ],
-			"obj-37" : [ "knob[2]", "knob[1]", 0 ],
-			"obj-27::obj-85" : [ "inputGain", "inputGain", 0 ],
+			"obj-27::obj-11" : [ "time-min-off", "time-min-off", 0 ],
 			"obj-21" : [ "m-FO", "m-FO", 0 ],
 			"obj-48" : [ "node[6]", "node[6]", 0 ],
-			"obj-47" : [ "knob[3]", "knob[1]", 0 ],
-			"obj-20" : [ "knob[1]", "knob[1]", 0 ],
-			"obj-27::obj-10" : [ "threshold", "threshold", 0 ],
-			"obj-51" : [ "node[7]", "node[7]", 0 ],
-			"obj-60" : [ "knob[4]", "knob[1]", 0 ],
-			"obj-75" : [ "knob[8]", "knob[1]", 0 ],
-			"obj-42" : [ "node[2]", "node[2]", 0 ],
-			"obj-27::obj-13" : [ "time-min-duration", "time-min-duration", 0 ],
-			"obj-11" : [ "node[1]", "node[1]", 0 ],
 			"obj-63" : [ "knob[5]", "knob[1]", 0 ],
+			"obj-20" : [ "knob[1]", "knob[1]", 0 ],
+			"obj-27::obj-12" : [ "fftVolume", "fftVolume", 0 ],
+			"obj-51" : [ "node[7]", "node[7]", 0 ],
+			"obj-64" : [ "knob[6]", "knob[1]", 0 ],
+			"obj-27::obj-85" : [ "inputGain", "inputGain", 0 ],
+			"obj-11" : [ "node[1]", "node[1]", 0 ],
+			"obj-73" : [ "knob[7]", "knob[1]", 0 ],
+			"obj-75" : [ "knob[8]", "knob[1]", 0 ],
+			"obj-37" : [ "knob[2]", "knob[1]", 0 ],
+			"obj-42" : [ "node[2]", "node[2]", 0 ],
+			"obj-27::obj-10" : [ "threshold", "threshold", 0 ],
+			"obj-44" : [ "node[3]", "node[3]", 0 ],
+			"obj-47" : [ "knob[3]", "knob[1]", 0 ],
+			"obj-27::obj-13" : [ "time-min-duration", "time-min-duration", 0 ],
 			"obj-46" : [ "node[5]", "node[5]", 0 ]
 		}
 ,
