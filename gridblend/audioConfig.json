@@ -5,7 +5,7 @@
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
-					"fftVolume" : [ -40.895061 ],
+					"fftVolume" : [ -42.790005 ],
 					"inputGain" : [ -30.0 ],
 					"threshold" : [ -30.359055 ],
 					"time-min-duration" : [ 24.0 ],
